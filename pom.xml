@@ -71,7 +71,7 @@
 		<evo-inflector.version>1.2.2</evo-inflector.version>
 		<hibernate-core.version>5.3.9.Final</hibernate-core.version>
 		<imgscalr-lib.version>4.2</imgscalr-lib.version>
-		<pdfbox.version>2.0.15</pdfbox.version>
+		<pdfbox.version>2.0.24</pdfbox.version>
 		<jodconverter-local.version>4.2.2</jodconverter-local.version>
 		<java.version>1.8</java.version>
 		<jaxb.api.version>2.3.0</jaxb.api.version>
